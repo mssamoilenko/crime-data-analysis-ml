@@ -48,19 +48,19 @@ The main objectives are to analyze patterns in the dataset, prepare data for mod
 
 The confusion matrix illustrates the classification model's predictions across six crime categories. It highlights correctly classified observations and misclassifications between categories.
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### 2. Feature Importance
 
 This visualization presents the 20 most influential features identified by the machine learning model. Weapon-related features, incident characteristics, and reporting information contribute to the predictions.
 
-![Top 20 Feature Importances](screenshots/feature_importance.png)
+![Top 20 Feature Importances](feature_importance.png)
 
 ### 3. Victim Age Distribution
 
 The histogram explores the age distribution of victims in the analyzed dataset, illustrating the frequency of observations across different age groups.
 
-![Victim Age Distribution](screenshots/victim_age_distribution.png)
+![Victim Age Distribution](victim_age_distribution.png)
 
 ## Project Files
 
